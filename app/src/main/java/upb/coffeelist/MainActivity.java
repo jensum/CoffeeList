@@ -1,10 +1,13 @@
 package upb.coffeelist;
 
-/**
- * Created by JB on 16.04.2015.
- */
 import android.app.Activity;
+import android.os.Bundle;
 
 public class MainActivity extends Activity {
 
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+    }
+
 }
+
